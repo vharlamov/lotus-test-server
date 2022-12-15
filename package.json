@@ -6,7 +6,8 @@
 	"type": "module",
 	"scripts": {
 		"start": "node index.js",
-		"serve": "nodemon index.js"
+		"serve": "nodemon index.js",
+		"build": "npm run build"
 	},
 	"author": "vharlamov <valera545@gmail.com>",
 	"license": "ISC",
